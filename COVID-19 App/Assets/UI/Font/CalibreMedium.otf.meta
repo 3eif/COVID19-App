@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d94fe804d7cde724abb7506f682de326
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Calibre
+  fontNames:
+  - Calibre
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 260403f08fd9df04fb8ec293f824143c, type: 3}
+  - {fileID: 12800000, guid: 45aa946163093e64ea826a146cd30802, type: 3}
+  - {fileID: 12800000, guid: c26ad9a31a111894d85274864f9e3ad2, type: 3}
+  - {fileID: 12800000, guid: 657a83276892f4045850e345fe772ffd, type: 3}
+  - {fileID: 12800000, guid: 92ebfdecbbd241d4989b9d6b453fc9eb, type: 3}
+  - {fileID: 12800000, guid: e4fb182d74be87540a67b81f9ccdea10, type: 3}
+  - {fileID: 12800000, guid: 325f9f7e33ba3204a8d4a4d3bc30c236, type: 3}
+  - {fileID: 12800000, guid: 856d970f238cf0f4aa0f3007e8b3b098, type: 3}
+  - {fileID: 12800000, guid: 10f634ef3f85b5646991f115b2ffab96, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
