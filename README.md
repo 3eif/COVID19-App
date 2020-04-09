@@ -6,13 +6,15 @@ I decided to make this public since Android and Apple are rejecting all coronavi
 Note: this app was made in less than 5 days so the code isn't A+ quality. 
 
 ## Installation
-### Without Unity
-If you want to get the app up and running without building the project in Unity, download the app here:
-
-### With Unity
 - Clone the repo: `git clone https://github.com/Tetracyl/COVID19-App COVID19-App`
-- Open the repo with Unity (version 2019.3.7 is preferred)
+- Open the repo with Unity 3D (version 2019.3.7 is preferred)
 - Press play
+
+### Building Project
+If you want to build your project follow these steps:
+- Navigate to File > Build Settings
+- Chose your preferred build settings
+- Press build
 
 ## Screenshots
 
