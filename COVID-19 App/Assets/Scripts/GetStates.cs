@@ -7,7 +7,7 @@ using UnityEngine;
 public class GetStates : MonoBehaviour
 {
 
-    private const string URL = "https://corona.lmao.ninja/states";
+    private const string URL = "https://corona.lmao.ninja/v2/states";
     private const string imageURL = "https://cdn.civil.services/us-states/flags/";
 
     public GameObject states;

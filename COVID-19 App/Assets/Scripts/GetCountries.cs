@@ -7,7 +7,7 @@ using UnityEngine;
 public class GetCountries : MonoBehaviour
 {
 
-    private const string URL = "https://corona.lmao.ninja/countries?sort=cases";
+    private const string URL = "https://corona.lmao.ninja/v2/countries?sort=cases";
 
     public GameObject countries;
     public GameObject button;

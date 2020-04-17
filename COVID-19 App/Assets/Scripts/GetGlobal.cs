@@ -16,7 +16,7 @@ public class GetGlobal : MonoBehaviour
     public Text lastUpdated;
 
     Data api;
-    private const string URL = "https://corona.lmao.ninja/all";
+    private const string URL = "https://corona.lmao.ninja/v2/all";
 
     public void Start()
     {
