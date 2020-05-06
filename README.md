@@ -29,4 +29,4 @@ Tablet
 <img src="https://cdn.discordapp.com/attachments/683420512801914939/697632556811681832/iPad_Pro_3rd_generation_1_1_2048x2732.png" width="300"> | <img src="https://cdn.discordapp.com/attachments/683420512801914939/697632551581384704/download_7.png" width="300"> | <img src="https://cdn.discordapp.com/attachments/683420512801914939/697632556060770324/iPad_Pro_3rd_generation_2_1_2048x2732.png" width="300">
 
 ## Help
-If you need any help with installing the app you can contact me through Twitter (https://twitter.com/Tetracyl) or Discord (Tetra#0096)
+If you need any help with installing the app you can contact me through Twitter (https://twitter.com/Tetracyl) or Discord (Tetracyl#0001)
